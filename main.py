@@ -1,4 +1,8 @@
 
+
+def bye()-> str:
+    return "Good Bye"
+
 def hello(name:str) -> str:
     return f"Hello {name}"
 
